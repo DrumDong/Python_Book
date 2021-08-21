@@ -17,4 +17,4 @@ for num in range(N):
         fr += 1
         bc -= 1
 
-print(res)
+print(res)      
